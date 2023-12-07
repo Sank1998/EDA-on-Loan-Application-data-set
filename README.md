@@ -1,4 +1,4 @@
-# EDA-on-Loan-Application-data-set
+# EDA and Logistic Regression-on-Loan-Application-data-set
 This project delves into the Loan Application dataset using exploratory data analysis (EDA) and builds a logistic regression model to predict loan approval. EDA reveals insights into factors influencing loan decisions, while the model assesses the likelihood of approval based on applicant profiles.
 
 Loan Application Data Analysis and Predictive Model
